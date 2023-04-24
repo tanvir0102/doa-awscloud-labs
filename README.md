@@ -17,3 +17,6 @@ Welcome .. In this repo I am storing and sharing a collection of freely availabl
 - [Database Migration using DMS](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-dms-database-migration)
 - [Implement Hybrid Directory - On-premises & AWS](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-hybrid-activedirectory)
 
+
+## AWS Blogs
+- [Run a data processing job on Amazon EMR Serverless with AWS Step Functions](https://aws.amazon.com/blogs/big-data/run-a-data-processing-job-on-amazon-emr-serverless-with-aws-step-functions/)
